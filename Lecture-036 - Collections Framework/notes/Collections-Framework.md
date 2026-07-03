@@ -7,7 +7,7 @@ To do a specific task, we require specific classes / functions /
 interfaces. 
 Like if we want to write a program related to a calculator application,
 we require ---> 
-1. a method to take input from device to calculator application
+1. a method to take input from device to calculator application 
 2. for processing we need some functions like add(), subtract(), etc
 3. again for logging the output of calculator application to the device we
 need some output writing methods like log(), display(), etc.
